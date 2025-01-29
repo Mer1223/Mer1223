@@ -17,6 +17,6 @@ HardSkills
 Follow Me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-00CED1?style=plastic&?style=for-the-badge&logo=instagram&logoColor=fabf01)](https://www.instagram.com/elturanegemberdiev)
-[![Telegram](https://img.shields.io/badge/-Telegram-00CED1?style=plastic&style=for-the-badge&logo=telegram&logoColor=fabf01)](https://t.me/elturan)
+[![Telegram](https://img.shields.io/badge/-Telegram-00CED1?style=plastic&?style=for-the-badge&logo=telegram&logoColor=fabf01)](https://t.me/elturan)
 [![LinkedIn](https://img.shields.io/badge/-Whatsapp-00CED1?style=plastic&?style=for-the-badge&logo=linkedin&logoColor=fabf01)](https://www.linkedin.com/in/elturan-egemberdiev-8b0678242/)
 
